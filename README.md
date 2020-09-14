@@ -28,4 +28,4 @@ So, the idea behind developing openTrading is to build a complete solution to ac
 # Why do we prefer Java?
 - We don't worry about millisecond lag in terms of system performance because execution of our strategies are not going to be that time sensitive.</br>
 - We lean towards Java for its strongly statically typed nature and its robust features like collections, concurrency and its plethora of frameworks/strong communities.</br>
-- Lastly, We have a solid development experience using Java. Thus, we want to use a language that we are pretty comfortable, so we can dig deep and understand what's going on under the hood, when a situation arises for debugging.
+- Lastly, we have a solid development experience using Java. Thus, we want to use a language that we are pretty comfortable, so we can dig deep and understand what's going on under the hood, when a situation arises for debugging.
