@@ -5,7 +5,7 @@ We can leverage charts available on different platforms, to look at various mark
 But, that is consuming and not scalable, when we want to do that for 'n' of number of instruments (stocks).
 
 So, we turn our attention to automating our trades,
-through algorithmic trading to achieve speed, consistency for executing various trading strategies efficiently and effectively.
+through algorithmic trading to achieve speed and consistency for executing various trading strategies efficiently and effectively.
 
 # Why do we develop openTrading?
 There must be numerous libraries and platforms out there to perform algorithmic trading and backtesting but each of them acts like a dependency to build a complete trading system
