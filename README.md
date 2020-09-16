@@ -43,6 +43,7 @@ So, the reason behind developing Open Trading is to build a complete algorithmic
 - Redis
 - MongoDB
 - Apache Kafka
+- Kubernetes
 - UI frameworks
 
 ## How can I contribue to Open Trading?
