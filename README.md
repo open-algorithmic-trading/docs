@@ -1,19 +1,19 @@
-# Why do we bet on algorithmic trading?
+# Hello there. Welcome to Open Trading!
+
+## Why do we bet on algorithmic trading?
 We believe [technical analysis](https://en.wikipedia.org/wiki/Technical_analysis) could be an important factor to consider, when initiating a trade for a stock.
 
-We can leverage charts available on different platforms, to look at various market technicals (sma, ema, rsi, and so) to initiate a trade upon receiving a buy/sell signal.
+We can use charts available on different platforms, to look at various market technicals (sma, ema, rsi, and so on) to initiate a trade, upon receiving a buy/sell signal.
 But, that is consuming and not scalable, when we want to do that for 'n' of number of instruments (stocks).
 
-So, we turn our attention to automating our trades,
-through algorithmic trading to achieve speed and consistency for executing various trading strategies efficiently and effectively.
+So, we turn our attention to automating our trades, through algorithmic trading to achieve speed and consistency, for executing various trading strategies efficiently and effectively.
 
-# Why do we develop Open Trading?
-There must be numerous libraries and platforms out there to perform algorithmic trading and backtesting but each of them acts like a dependency to build a complete trading system
-or developed using languages other than Java or their community is currently inactive.
+## Why do we develop Open Trading?
+There must be numerous libraries and platforms out there, to perform algorithmic trading and backtesting, but each of them acts like a dependency, to build a complete trading system or developed using languages other than Java or their community is currently inactive.
 
-So, the idea behind developing openTrading is to build a complete solution to achieve an end to end algorithmic trading system by leveraging the libraries and platforms out there but to not develop the aforesaid libraries or platforms and certainly to not reinvent the wheel!
+So, the reason behind developing Open Trading is to build a complete algorithmic trading system for stocks/options, by leveraging the libraries and platforms out there but to not develop the aforesaid libraries or platforms and certainly to not reinvent the wheel!
 
-# What does Open Trading (v1.0) aims to achieve?
+## What does Open Trading (v1.0) aims to achieve?
 - read market data
 - calculate market technicals
 - persist market data
@@ -25,10 +25,10 @@ So, the idea behind developing openTrading is to build a complete solution to ac
 - measure trading performance/drawdown
 - sandbox
 
-# Why do we prefer Java?
-- We don't worry about millisecond lag in terms of system performance because execution of our strategies are not going to be that time sensitive.</br>
-- We lean towards Java for its strongly statically typed nature and its robust features like collections, concurrency and its plethora of frameworks/strong communities.</br>
-- Lastly, we have a solid development experience using Java. Thus, we want to use a language that we are pretty comfortable, so we can dig deep and understand what's going on under the hood, when a situation arises for debugging.
+## Why do we prefer Java?
+- We don't worry about time-sensistive lag in terms of system performance, because execution of our strategies are not going to be that time-sensitive.</br>
+- We lean towards Java for its strongly, statically typed nature and its robust features like collections, multithreading model and its plethora of frameworks/strong communities.</br>
+- Lastly, we have a solid development experience using Java. Thus, we want to use a language that we are pretty comfortable, so we can dig deep and understand what's going on under the hood, when things go south.
 
-# How can I contribue to Open Trading?
-Open Trading would love to have contributors like you. Join us via our Slack [open-trading](https://join.slack.com/t/open-trading/shared_invite/zt-h486t1ue-1Pt9Ais587FLdvcWkZZUAg)!
+## Can I contribue to Open Trading?
+We strongly believe in collective efforts and Open Trading would love to have contributors like you. Join us [#open-trading](https://join.slack.com/t/open-trading/shared_invite/zt-h486t1ue-1Pt9Ais587FLdvcWkZZUAg) on Slack. And let us build this Open Trading platform, for us, together!
