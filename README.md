@@ -7,13 +7,13 @@ But, that is consuming and not scalable, when we want to do that for 'n' of numb
 So, we turn our attention to automating our trades,
 through algorithmic trading to achieve speed and consistency for executing various trading strategies efficiently and effectively.
 
-# Why do we develop openTrading?
+# Why do we develop Open Trading?
 There must be numerous libraries and platforms out there to perform algorithmic trading and backtesting but each of them acts like a dependency to build a complete trading system
 or developed using languages other than Java or their community is currently inactive.
 
 So, the idea behind developing openTrading is to build a complete solution to achieve an end to end algorithmic trading system by leveraging the libraries and platforms out there but to not develop the aforesaid libraries or platforms and certainly to not reinvent the wheel!
 
-# What does openTrading (v1.0) aims to achieve?
+# What does Open Trading (v1.0) aims to achieve?
 - read market data
 - calculate market technicals
 - persist market data
@@ -29,3 +29,6 @@ So, the idea behind developing openTrading is to build a complete solution to ac
 - We don't worry about millisecond lag in terms of system performance because execution of our strategies are not going to be that time sensitive.</br>
 - We lean towards Java for its strongly statically typed nature and its robust features like collections, concurrency and its plethora of frameworks/strong communities.</br>
 - Lastly, we have a solid development experience using Java. Thus, we want to use a language that we are pretty comfortable, so we can dig deep and understand what's going on under the hood, when a situation arises for debugging.
+
+# How can I contribue to Open Trading?
+Open Trading would love to have contributors like you. Join us via our Slack [open-trading](https://join.slack.com/t/open-trading/shared_invite/zt-h486t1ue-1Pt9Ais587FLdvcWkZZUAg)!
