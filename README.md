@@ -45,7 +45,7 @@ So, the reason behind developing Open Trading is to build a complete algorithmic
 - Apache Kafka
 - UI frameworks
 
-## Can I contribue to Open Trading?
+## How can I contribue to Open Trading?
 We strongly believe in collective efforts and Open Trading would love to have contributors like you.</br>
 
 Join us [@open-trading](https://join.slack.com/t/open-trading/shared_invite/zt-h486t1ue-1Pt9Ais587FLdvcWkZZUAg) on Slack. And let us build this Open Trading platform, for us, together!
