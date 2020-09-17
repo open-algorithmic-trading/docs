@@ -31,14 +31,15 @@ So, the reason behind developing Open Trading is to build a complete algorithmic
 - Lastly, we have a solid development experience using Java. Thus, we want to use a language that we are pretty comfortable, so we can dig deep and understand what's going on under the hood, when things go south.
 
 ## What is the tech stack of Open Trading?
-> Now .
+> **Now .**
 - Java
 - Groovy
 - PostgreSQL
 - Docker
 - AWS
+- Amazon S3
 - Terraform
-> Future +
+> **Future +**
 - gRPC
 - Redis
 - MongoDB
