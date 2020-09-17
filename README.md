@@ -49,12 +49,12 @@ So, the reason behind developing Open Trading is to build a complete algorithmic
 
 ## Markets & Brokers
 Open Trading is designed to be a generic and extensible platform and so it is possible to extend it for any market and any broker. That said, we target to extend the platform for following markets and brokers.
-A. US
-  1. Alpaca
-  2. TD Ameritrade
-  3. Tastyworks
-B. India
-  1. Zerodha
+- US
+  - Alpaca
+  - TD Ameritrade
+  - Tastyworks
+- India
+  - Zerodha
 
 ## How can I contribute to Open Trading?
 We strongly believe in collective efforts and Open Trading would love to have contributors like you.</br>
