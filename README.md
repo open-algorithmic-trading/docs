@@ -4,14 +4,14 @@
 We believe [technical analysis](https://en.wikipedia.org/wiki/Technical_analysis) could be an important factor to consider, when initiating a trade for a stock.
 
 We can use charts available on different platforms, to look at various market technicals (sma, ema, rsi, and so on) to initiate a trade, upon receiving a buy/sell signal.
-But, that is consuming and not scalable, when we want to do that for 'n' of number of instruments (stocks).
+But, that is consuming and not scalable, when we want to do that for 'n' of number of instruments (Stocks).
 
 So, we turn our attention to automating our trades, through algorithmic trading to achieve speed and consistency, for executing various trading strategies efficiently and effectively.
 
 ## Why do we develop Open Trading?
 There must be numerous libraries and platforms out there, to perform algorithmic trading and back testing, but each of them acts like a dependency, to build a complete trading system or developed using languages other than Java or their community is currently inactive.
 
-So, the reason behind developing Open Trading is to build a complete algorithmic trading system for stocks/options, by leveraging the libraries and platforms out there but to not develop the aforesaid libraries or platforms and certainly to not reinvent the wheel!
+So, the reason behind developing Open Trading is to build a complete algorithmic trading system for Stocks and Options, by leveraging the libraries and platforms out there but to not develop the aforesaid libraries or platforms and certainly to not reinvent the wheel!
 
 ## What does Open Trading (v1.0) aims to achieve?
 - Read market data
@@ -20,7 +20,7 @@ So, the reason behind developing Open Trading is to build a complete algorithmic
 - Replay market data
 - Form and execute trading strategies
 - Connect to a broker
-- Place trades on your trading account (virtual/real account)
+- Place trades (Stocks, Options) on your trading account (virtual/real account)
 - Back test strategies
 - Measure trading performance/drawdown
 - Sandbox
@@ -49,11 +49,11 @@ So, the reason behind developing Open Trading is to build a complete algorithmic
 
 ## Markets & Brokers
 Open Trading is designed to be a generic and extensible platform and so it is possible to extend it for any market and any broker. That said, we target to extend the platform for following markets and brokers.
-- US
+> **US**
   - Alpaca
   - TD Ameritrade
   - Tastyworks
-- India
+> **India**
   - Zerodha
 
 ## How can I contribute to Open Trading?
