@@ -9,7 +9,7 @@ But, that is consuming and not scalable, when we want to do that for 'n' of numb
 So, we turn our attention to automating our trades, through algorithmic trading to achieve speed and consistency, for executing various trading strategies efficiently and effectively.
 
 ## Why do we develop Open Trading?
-There must be numerous libraries and platforms out there, to perform algorithmic trading and back testing, but each of them acts like a dependency, to build a complete trading system or developed using languages other than Java or their community is currently inactive.
+There must be numerous libraries and platforms out there, to perform algorithmic trading and backtesting, but each of them acts like a dependency, to build a complete trading system or developed using languages other than Java or their community is currently inactive.
 
 So, the reason behind developing Open Trading is to build a complete algorithmic trading system for Stocks and Options, by leveraging the libraries and platforms out there but to not develop the aforesaid libraries or platforms and certainly to not reinvent the wheel!
 
@@ -21,12 +21,12 @@ So, the reason behind developing Open Trading is to build a complete algorithmic
 - Form and execute trading strategies
 - Connect to a broker
 - Place trades (for Stocks and Options) on your trading account (virtual/real account)
-- Back test strategies
+- Backtest strategies
 - Measure trading performance/drawdown
 - Sandbox
 
 ## Why do we prefer Java?
-- We don't worry about time-sensitive lag in terms of system performance, because execution of our strategies are not going to be that time-sensitive.</br>
+- We don't worry about time-sensitive lag in terms of system performance, because our strategies are not going to be that time-sensitive.</br>
 - We lean towards Java for its strongly, statically typed nature and its robust features like collections, multithreading model and its plethora of frameworks/strong communities.</br>
 - Lastly, we have a solid development experience using Java. Thus, we want to use a language that we are pretty comfortable, so we can dig deep and understand what's going on under the hood, when things go south.
 
