@@ -20,7 +20,7 @@ So, the reason behind developing Open Trading is to build a complete algorithmic
 - Replay market data
 - Form and execute trading strategies
 - Connect to a broker
-- Place trades (Stocks, Options) on your trading account (virtual/real account)
+- Place trades (for Stocks and Options) on your trading account (virtual/real account)
 - Back test strategies
 - Measure trading performance/drawdown
 - Sandbox
@@ -48,7 +48,7 @@ So, the reason behind developing Open Trading is to build a complete algorithmic
 - UI frameworks
 
 ## Markets & Brokers
-Open Trading is designed to be a generic and extensible platform and so it is possible to extend it for any market and any broker. That said, we target to extend the platform for following markets and brokers.
+Open Trading is designed to be a generic and an extensible platform and so it is possible to extend it for any market/broker. That said, we target to extend the platform for following markets/brokers.
 > **US**
   - Alpaca
   - TD Ameritrade
