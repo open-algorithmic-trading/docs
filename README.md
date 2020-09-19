@@ -1,4 +1,4 @@
-# Hello there. Welcome to Open Trading!
+# Welcome to Open Trading!
 
 ## Why do we bet on algorithmic trading?
 We believe [technical analysis](https://en.wikipedia.org/wiki/Technical_analysis) could be an important factor to consider, when initiating a trade for a stock.
