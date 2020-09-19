@@ -13,7 +13,7 @@ There must be numerous libraries and platforms out there, to perform algorithmic
 
 So, the reason behind developing Open Trading is to build a complete algorithmic trading system for Stocks and Options, by leveraging the libraries and platforms out there but to not develop the aforesaid libraries or platforms and certainly to not reinvent the wheel!
 
-## What does Open Trading (v1.0) aims to achieve?
+## What are the goals of Open Trading (v1.0)?
 - Read market data
 - Consume/calculate market technicals
 - Persist market data
