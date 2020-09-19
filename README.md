@@ -59,7 +59,7 @@ Open Trading is designed to be a generic and an extensible platform and so it is
 ## Read More!
 Head to [Open Trading Wiki](https://github.com/open-algorithmic-trading/docs/wiki) to read more.
 
-## How can I contribute to Open Trading?https://www.reddit.com/r/openTrading/
+## How can I contribute to Open Trading?
 We strongly believe in collective efforts and Open Trading would love to have contributors like you.</br>
 
 Join us via any of the following channels.
