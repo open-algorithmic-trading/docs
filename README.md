@@ -53,6 +53,7 @@ Open Trading is designed to be a generic and an extensible platform and so it is
   - Alpaca
   - TD Ameritrade
   - Tastyworks
+  - Interactive Brokers
 > **India**
   - Zerodha
   
