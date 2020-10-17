@@ -64,7 +64,7 @@ Head to [Open Trading Wiki](https://github.com/open-algorithmic-trading/docs/wik
 We strongly believe in collective efforts and Open Trading would love to have contributors like you.</br>
 
 Join us via any of the following channels.
-- Slack: https://join.slack.com/t/opentrading/shared_invite/zt-h486t1ue-1Pt9Ais587FLdvcWkZZUAg
+- Slack: https://join.slack.com/t/opentrading/shared_invite/zt-ibms0fhv-WdA6n~__ER6ywmT9uaChqQ
 - Reddit: https://www.reddit.com/r/openTrading
 
 And let us build this Open Trading platform, for us, together!
