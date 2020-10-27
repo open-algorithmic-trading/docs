@@ -1,0 +1,10 @@
+@startuml
+
+package "opentrading-compute" {
+    () "ComputeService" as CP
+    [ta4j] as TA4
+
+    CP --> TA4
+}
+
+@enduml

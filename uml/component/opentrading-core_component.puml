@@ -1,0 +1,7 @@
+@startuml
+
+package "opentrading-core" {
+    [opentrading-core] as OC
+}
+
+@enduml

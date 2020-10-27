@@ -1,0 +1,22 @@
+@startuml
+
+actor cli
+
+participant CoreBootstrap as CB
+participant AlpacaBootstrap as ACB
+participant DataService as DS
+database PersistenceDAO as PD
+participant ComputeService as CS
+
+cli -> CB: boot
+
+CB -> ACB: login()
+return UserSession
+
+CB -> ACB: getMargin()
+return AccountMargin
+
+CB --> ACB: getAllInstruments()
+return InstrumentList
+
+@enduml

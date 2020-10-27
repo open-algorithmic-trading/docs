@@ -1,0 +1,12 @@
+@startuml
+
+package "opentrading-data" {
+    () "DataService" as D
+    [FinnhubDataService] as FD
+    [YahooDataService] as YD
+
+    D --> FD
+    D --> YD
+}
+
+@enduml

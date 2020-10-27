@@ -1,0 +1,12 @@
+@startuml
+
+package "opentrading-persistence" {
+    () "PersistenceDAO" as P
+    [PostgresDAO] as PP
+    [RedisDAO] as RP
+
+    P --> PP
+    P --> RP
+}
+
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+
+package "opentrading-platform" {
+    [opentrading-core] as OC
+    [opentrading-broker_x] as BX
+    [opentrading-broker_y] as BY
+
+    OC --> BX
+    OC --> BY
+}
+
+@enduml
