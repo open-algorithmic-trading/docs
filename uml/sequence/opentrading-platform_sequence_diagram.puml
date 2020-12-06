@@ -14,9 +14,21 @@ CB -> ACB: login()
 return UserSession
 
 CB -> ACB: getMargin()
-return AccountMargin
+return accountMargin
 
 CB --> ACB: getAllInstruments()
-return InstrumentList
+return instrumentList
+
+CB --> ACB: getTradingInstruments()
+return filteredInstrumentList
+
+CB --> ACB: initWebSocket()
+return true
+
+CB --> ACB: streamTicks()
+return true
+
+CB --> ACB: scheduleTicksAggregator()
+return true
 
 @enduml

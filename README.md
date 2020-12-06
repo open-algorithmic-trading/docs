@@ -47,16 +47,17 @@ So, the reason behind developing Open Trading is to build a complete algorithmic
 - Kubernetes
 - UI frameworks
 
-## Markets & Brokers
-Open Trading is designed to be a generic and an extensible platform and so it is possible to extend it for any market/broker. That said, we target to extend the platform for following markets/brokers.
-> **US**
-  - Alpaca
-  - TD Ameritrade
-  - Tastyworks
-  - Interactive Brokers
-> **India**
-  - Zerodha
-  
+## Modules
+Open Trading is designed to be a generic and an extensible platform and so it is possible to extend it for any market/broker.
+That said, we aim to develop the following projects.
+
+> **Framework**
+  - Develops the dependencies for trading, backtesting, and administration.
+> **Boot**
+  - Develops the base application for developing any broker specific algorithmic trading application.
+> **Replay**
+  - Develops the backtesting process.
+
 ## Read More!
 Head to [Open Trading Wiki](https://github.com/open-algorithmic-trading/docs/wiki) to read more.
 
@@ -67,4 +68,4 @@ Join us via any of the following channels.
 - Slack: https://join.slack.com/t/opentrading/shared_invite/zt-ibms0fhv-WdA6n~__ER6ywmT9uaChqQ
 - Reddit: https://www.reddit.com/r/openTrading
 
-And let us build this Open Trading platform, for us, together!
+Let us build this Open Trading platform, for us, together!

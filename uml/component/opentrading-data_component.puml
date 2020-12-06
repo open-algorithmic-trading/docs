@@ -1,12 +1,12 @@
 @startuml
 
 package "opentrading-data" {
-    () "DataService" as D
-    [FinnhubDataService] as FD
-    [YahooDataService] as YD
+    () "DataService" as DS
+    [FinnhubDataService] as FDS
+    [YahooDataService] as YDS
 
-    D --> FD
-    D --> YD
+    DS --> FDS
+    DS --> YDS
 }
 
 @enduml

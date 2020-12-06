@@ -2,8 +2,8 @@
 
 package "opentrading-persistence" {
     () "PersistenceDAO" as P
-    [PostgresDAO] as PP
-    [RedisDAO] as RP
+    [PostgresPersistenceDAO] as PP
+    [RedisPersistenceDAO] as RP
 
     P --> PP
     P --> RP

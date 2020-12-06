@@ -2,11 +2,11 @@
 
 package "opentrading-platform" {
     [opentrading-core] as OC
-    [opentrading-broker_x] as BX
-    [opentrading-broker_y] as BY
+    [opentrading-alpaca] as OA
+    [opentrading-zerodha] as OZ
 
-    OC --> BX
-    OC --> BY
+    OC --> OA
+    OC --> OZ
 }
 
 @enduml
