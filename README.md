@@ -59,7 +59,7 @@ That said, we aim to develop the following projects.
   - Develops the backtesting process.
 
 ## Read More!
-Head to [Open Trading Wiki](https://github.com/open-algorithmic-trading/docs/wiki) to read more.
+Head to [OpenTrading Wiki](https://github.com/open-algorithmic-trading/docs/wiki) to read more.
 
 ## How can I contribute to Open Trading?
 We strongly believe in collective efforts and Open Trading would love to have contributors like you.</br>
