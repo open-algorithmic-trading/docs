@@ -65,7 +65,7 @@ Head to [OpenTrading Wiki](https://github.com/open-algorithmic-trading/docs/wiki
 We strongly believe in collective efforts and OpenTrading would love to have contributors like you.</br>
 
 Join us via any of the following channels.
-- Discord: https://discord.gg/RGaWnJ6T
+- Discord: https://discord.gg/QBVqZj4Ma2
 - Reddit: https://www.reddit.com/r/openTrading
 
 Let us build this OpenTrading platform, for us, together!
